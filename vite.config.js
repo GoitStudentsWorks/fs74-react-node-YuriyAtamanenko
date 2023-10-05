@@ -9,5 +9,5 @@ export default defineConfig({
       components: '/src/components',
     },
   },
-  base: '/GachiClub/',
+  base: '/fs74-react-node-YuriyAtamanenko/',
 });
