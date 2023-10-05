@@ -1,0 +1,1 @@
+const a="/fs74-react-node-YuriyAtamanenko/assets/default-tablet-1x-d37027fc.jpg",e="/fs74-react-node-YuriyAtamanenko/assets/default-tablet-2x-54594741.jpg",t="/fs74-react-node-YuriyAtamanenko/assets/default-mobile-1x-8f07bae4.jpg",s="/fs74-react-node-YuriyAtamanenko/assets/default-mobile-2x-dd403410.jpg";export{s as a,e as b,t as m,a as t};
